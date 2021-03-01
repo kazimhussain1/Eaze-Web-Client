@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1366 768" style="enable-background:new 0 0 1366 768;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:url(#SVGID_2_);}
+	.st2{fill:url(#SVGID_3_);}
+</style>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="1051.0459" y1="144.7251" x2="53.4132" y2="703.5649">
+	<stop  offset="0" style="stop-color:#2AA9FF"/>
+	<stop  offset="1" style="stop-color:#3FFFEC"/>
+</linearGradient>
+<path class="st0" d="M93.83,686.17c29.44,0,58.53,5.17,86.55,14.04c21.59,6.83,43.2,22.92,66.41,19.31
+	c13.65-2.12,26.28-8.27,39.1-13.41c69.7-27.93,150.82-25.92,219.06,5.4c10.76,4.94,21.97,10.72,33.75,9.51
+	c7.36-0.75,14.13-4.19,20.83-7.32c76.23-35.58,168.12-35.8,244.52-0.59c9.23,4.25,18.81,9.11,28.95,8.38
+	c7.74-0.56,14.82-4.32,21.79-7.72c66.98-32.66,147.47-36.38,217.18-10.05c14.28,5.39,28.24,12.02,43.26,14.76
+	c27.69,5.05,45.51-12.15,70.46-19.71c27.67-8.39,56.55-12.6,85.45-12.6c33.18,0,65.08,5.5,94.83,15.62V268c0,0-30-142-325-142
+	S683,0,683,0H0v701.45C29.47,691.54,61.02,686.17,93.83,686.17z"/>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="85.0789" y1="466.1995" x2="-42.7221" y2="537.7893">
+	<stop  offset="5.025126e-03" style="stop-color:#72DEFF"/>
+	<stop  offset="7.537689e-03" style="stop-color:#7ADCFF;stop-opacity:0.96"/>
+	<stop  offset="1" style="stop-color:#3FFFEC;stop-opacity:0"/>
+</linearGradient>
+<path class="st1" d="M0,384c66.83,0,121,54.17,121,121S66.83,626,0,626"/>
+<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="1404.2306" y1="272.2782" x2="1232.9392" y2="368.2298" gradientTransform="matrix(1.0348 0.0317 9.142676e-03 1.0124 -44.3708 -43.0838)">
+	<stop  offset="5.025126e-03" style="stop-color:#91A9FF"/>
+	<stop  offset="1" style="stop-color:#3FFFEC;stop-opacity:0"/>
+</linearGradient>
+<path class="st2" d="M1366.34,498.48c-41.08-1.46-79.13-24.25-99.81-59.78l-45.64-78.43c-20.68-35.53-20.84-78.41-0.44-112.48
+	l45.05-75.21c20.41-34.07,58.29-54.16,99.37-52.7"/>
+</svg>
